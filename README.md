@@ -1,6 +1,8 @@
 ### Hi there, I'm Thomas! 👋
 
-![My stats](https://github-readme-stats.vercel.app/api?username=GitGudShu&show_icons=true&theme=highcontrast)
+![My stats](https://github-readme-stats.vercel.app/api?username=GitGudShu&show_icons=true&theme=shades-of-purple)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GitGudShu&layout=compact)](https://github.com/GitGudShu/github-readme-stats)
 
 # Table of contents
 - [Markdown Badges](#markdown-badges)
