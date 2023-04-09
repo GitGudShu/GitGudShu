@@ -1,6 +1,6 @@
 ### Hi there, I'm Thomas! 👋
 
-![My stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=synthwave)
+![My stats](https://github-readme-stats.vercel.app/api?username=GitGudShu&show_icons=true&theme=synthwave)
 
 # Table of contents
 - [Markdown Badges](#markdown-badges)
