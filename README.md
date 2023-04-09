@@ -1,8 +1,7 @@
 ### Hi there, I'm Thomas! 👋
 
-![My stats](https://github-readme-stats.vercel.app/api?username=GitGudShu&show_icons=true&theme=shades-of-purple)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GitGudShu&layout=compact)](https://github.com/GitGudShu/github-readme-stats)
+![Shu's GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jarod25&langs_count=12&theme=shades-of-purple&layout=compact)
+![Shu's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=jarod25&count_private=true&theme=shades-of-purple&showicons=true) 
 
 # Table of contents
 - [About me](#markdown-badges)
