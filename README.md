@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hi there, I'm Thomas! 👋
 
-<!--
-**GitGudShu/GitGudShu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![My stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=synthwave)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Table of contents
+- [Markdown Badges](#markdown-badges)
+- [Table of contents](#table-of-contents)
+- [Usage](#usage)
+- [Tips](#tips)
+- [Contribution](#contribution)
+- [License](#license)
+- [Badges](#badges)
