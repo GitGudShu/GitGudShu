@@ -34,9 +34,7 @@
 
 ### Operating system
 
-<img alt="ubuntu" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Logo-ubuntu_cof-orange-hex.svg" height="50" style="margin: 10px">
-<img alt="debian" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Openlogo-debianV2.svg/1200px-Openlogo-debianV2.svg.png" height="50" style="margin: 10px">
-<img alt="windows" src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" height="50" style="margin: 10px">
+<img alt="ubuntu" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Logo-ubuntu_cof-orange-hex.svg" height="50" style="margin: 10px"><img alt="debian" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Openlogo-debianV2.svg/1200px-Openlogo-debianV2.svg.png" height="50" style="margin: 10px"><img alt="windows" src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" height="50" style="margin: 10px">
 
 ## **Projects**
 
