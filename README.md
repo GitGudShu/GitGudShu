@@ -5,7 +5,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GitGudShu&layout=compact)](https://github.com/GitGudShu/github-readme-stats)
 
 # Table of contents
-- [Markdown Badges](#markdown-badges)
+- [About me](#markdown-badges)
 - [Table of contents](#table-of-contents)
 - [Usage](#usage)
 - [Tips](#tips)
