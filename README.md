@@ -7,8 +7,8 @@
 
 <!-- https://readme-typing-svg.demolab.com/demo/ -->
 
-![Shu's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=GitGudShu&count_private=true&theme=shades-of-purple&showicons=true) 
-![Shu's GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GitGudShu&langs_count=12&theme=shades-of-purple&layout=compact)
+![GitGudShu's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=GitGudShu&count_private=true&theme=shades-of-purple&showicons=true)
+![GitGudShu's GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GitGudShu&langs_count=12&theme=shades-of-purple&layout=compact)
 
 ## <font color="#FFD700">**About me**</font>
 
