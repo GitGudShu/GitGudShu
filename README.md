@@ -7,8 +7,12 @@
 
 <!-- https://readme-typing-svg.demolab.com/demo/ -->
 
+<!-- https://www.youtube.com/watch?v=n6d4KHSKqGk&t=107s&ab_channel=codeSTACKr -->
+
+<!-- https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
+
 ![GitGudShu's GitHub Stats](https://github-readme-stats-gitgudshu.vercel.app/api/?username=GitGudShu&count_private=true&theme=shades-of-purple&showicons=true)
-![GitGudShu's GitHub Language Stats](https://github-readme-stats-gitgudshu.vercel.app/api/top-langs/?username=GitGudShu&langs_count=12&theme=shades-of-purple&layout=compact)
+![GitGudShu's GitHub Language Stats](https://github-readme-stats-gitgudshu.vercel.app/api/top-langs/?username=GitGudShu&hide=ShaderLab&exclude_repo=AudioMemory&langs_count=8&theme=shades-of-purple&layout=compact)
 
 ## <font color="#FFD700">**About me**</font>
 
