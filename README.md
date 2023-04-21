@@ -1,8 +1,8 @@
 <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=1222&pause=1000&color=FFD700&center=true&vCenter=true&repeat=false&width=435&lines=Thomas+Chu" alt="Typing SVG" /></a>
+    <a href="https://gitgudshu.github.io/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=1222&pause=1000&color=FFD700&center=true&vCenter=true&repeat=false&width=435&lines=Thomas+Chu" alt="Typing SVG" /></a>
 </p>
 <p align="center" style="margin-top: -10px;">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFD700&center=true&vCenter=false&width=435&lines=Passionate+student+in+Data+Science+;Currently+pursuing+studies+in+AI;Always+learning+new+things" alt="Typing SVG" /></a>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFD700&center=true&vCenter=false&width=435&lines=Passionate+student+in+Data+Science+;Currently+pursuing+studies+in+AI;Always+learning+new+things" alt="Typing SVG" /></a>
 </p>
 
 <!-- https://readme-typing-svg.demolab.com/demo/ -->
