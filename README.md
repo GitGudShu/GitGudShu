@@ -14,7 +14,7 @@
 ![GitGudShu's GitHub Stats](https://github-readme-stats-gitgudshu.vercel.app/api/?username=GitGudShu&count_private=true&theme=shades-of-purple&showicons=true)
 ![GitGudShu's GitHub Language Stats](https://github-readme-stats-gitgudshu.vercel.app/api/top-langs/?username=GitGudShu&hide=ShaderLab&exclude_repo=AudioMemory&langs_count=8&theme=shades-of-purple&layout=compact)
 
-## `<font color="#FFD700">`**About me**`</font>`
+## <font color="#FFD700">**About me**</font>
 
 - 💻 I'm a computer science student based in France, currently working on Machine Learning in England.
 - 🗺️ I am constantly seeking new experiences to expand my horizons, which has led me to seek out opportunities to study abroad whenever possible. I believe that experiencing different cultures and perspectives is key to personal growth and development.
@@ -22,7 +22,7 @@
 - 🎼 I am also an experienced musician and composer. I believe that creativity and technical expertise go hand-in-hand, and that pursuing diverse interests is essential to personal growth and development.
 - 🔬 I'm always eager to learn new things. I believe that a willingness to take on new challenges is essential to success in any field.
 
-## `<font color="#FFD700">`**Languages and tools**`</font>`
+## <font color="#FFD700">**Languages and tools**</font>
 
 ### **Regular usage**
 
@@ -40,12 +40,12 @@
     <img alt="windows" src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" height="50">
 </p>
 
-## `<font color="#FFD700">`**Projects**`</font>`
+## <font color="#FFD700">**Projects**</font>
 
 I am passionate about exploring new ideas. You can check out some of my latest projects in the repositories section on my GitHub profile, where I intend to showcase my passion for AI and the potential it holds for shaping the future of technology.
 
-## `<font color="#FFD700">`**Have I piqued your interest?**`</font>`
+## <font color="#FFD700">**Have I piqued your interest?**</font>
 
 If you have any questions or would like to learn more about me, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/thomas-chu-259702235/) or check out my [portfolio](https://gitgudshu.github.io/).
 
-`<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFD700&repeat=true&width=435&lines=Looking+forward+to+working+with+you" alt="Typing SVG" />``</a>`
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFD700&repeat=true&width=435&lines=Looking+forward+to+working+with+you" alt="Typing SVG" /></a>
