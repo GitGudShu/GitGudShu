@@ -11,8 +11,7 @@
 
 <!-- https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
 
-![GitGudShu's GitHub Stats](https://github-readme-stats-gitgudshu.vercel.app/api/?username=GitGudShu&count_private=true&theme=shades-of-purple&showicons=true)
-![GitGudShu's GitHub Language Stats](https://github-readme-stats-gitgudshu.vercel.app/api/top-langs/?username=GitGudShu&hide=ShaderLab&exclude_repo=AudioMemory&langs_count=8&theme=shades-of-purple&layout=compact)
+
 
 ## <font color="#FFD700">**About me**</font>
 
@@ -43,6 +42,9 @@
 ## <font color="#FFD700">**Projects**</font>
 
 I am passionate about exploring new ideas. You can check out some of my latest projects in the repositories section on my GitHub profile, where I intend to showcase my passion for AI and the potential it holds for shaping the future of technology.
+
+![GitGudShu's GitHub Stats](https://github-readme-stats-gitgudshu.vercel.app/api/?username=GitGudShu&count_private=true&theme=shades-of-purple&showicons=true)
+<!-- ![GitGudShu's GitHub Language Stats](https://github-readme-stats-gitgudshu.vercel.app/api/top-langs/?username=GitGudShu&hide=ShaderLab&exclude_repo=AudioMemory&langs_count=8&theme=shades-of-purple&layout=compact) -->
 
 ## <font color="#FFD700">**Have I piqued your interest?**</font>
 
