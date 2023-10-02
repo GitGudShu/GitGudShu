@@ -25,11 +25,11 @@
 
 ### **Regular usage**
 
-![Langages](https://skillicons.dev/icons?i=github,vscode,py,java,js,mysql,html,css&perline=8)
+![Langages](https://skillicons.dev/icons?i=github,vscode,py,js,mongo&perline=5)
 
 ### **Familiar with**
 
-![Frameworks](https://skillicons.dev/icons?i=php,flask,c,cpp,cs,qt,mongo,postgres,gitlab,jenkins,maven,arduino,raspberrypi,unity,nodejs,vuejs&perline=8)
+![Frameworks](https://skillicons.dev/icons?i=php,flask,c,cpp,cs,qt,postgres,gitlab,maven,arduino,raspberrypi,unity,nodejs,vuejs,mysql,java,html,css&perline=6)
 
 ### **Operating system**
 
