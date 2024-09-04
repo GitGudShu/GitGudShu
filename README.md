@@ -21,11 +21,11 @@ Hey there. I’m currently a Data Science Engineer Apprentice at the FEMTO-ST In
 
 ### **Regular usage**
 
-![Langages](https://skillicons.dev/icons?i=github,vscode,py,js,mongo&perline=5)
+![Langages](https://skillicons.dev/icons?i=github,vscode,py,vuejs,mongo&perline=5)
 
 ### **Familiar with**
 
-![Frameworks](https://skillicons.dev/icons?i=php,flask,c,cpp,cs,qt,postgres,gitlab,maven,arduino,raspberrypi,unity,nodejs,vuejs,mysql,java,html,css&perline=6)
+![Frameworks](https://skillicons.dev/icons?i=php,flask,c,cpp,cs,qt,postgres,gitlab,maven,arduino,raspberrypi,unity,nodejs,mysql,java,js,html,css&perline=6)
 
 ### **Operating system**
 
