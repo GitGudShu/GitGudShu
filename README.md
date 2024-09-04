@@ -15,11 +15,7 @@
 
 ## <font color="#FFD700">**About me**</font>
 
-- 💻 I'm a computer science student based in France, currently working on Machine Learning in England.
-- 🗺️ I am constantly seeking new experiences to expand my horizons, which has led me to seek out opportunities to study abroad whenever possible. I believe that experiencing different cultures and perspectives is key to personal growth and development.
-- 🥋 In addition to my academic pursuits, I hold a black belt in jujitsu and have been training in martial arts for several years. My training has taught me valuable skills in focus, perseverance, and adaptability.
-- 🎼 I am also an experienced musician and composer. I believe that creativity and technical expertise go hand-in-hand, and that pursuing diverse interests is essential to personal growth and development.
-- 🔬 I'm always eager to learn new things. I believe that a willingness to take on new challenges is essential to success in any field.
+Hey there. I’m currently a Data Science Engineer Apprentice at the FEMTO-ST Institute, hanging out with a bunch of smart folks doing AI and distributed algorithms—basically, trying to teach machines to think while barely managing it myself some days. I’ve done my rounds: studied computer science in France, dabbled in machine learning in England, and spent six months in Canada on a study program—because why not add frostbite to my list of experiences? I like those kind of opportunities and which to have many more in the future. Between the coding marathons, I’ve been training in jujitsu long enough to earn a black belt and a few bruises—turns out throwing people around teaches you a thing or two about focus. When I need a break from all the logic, I write music, because what better way to stay sane than to dive into a different kind of chaos? At the end of the day, I’m just here for the learning curve and a good story to tell.
 
 ## <font color="#FFD700">**Languages and tools**</font>
 
