@@ -8,7 +8,9 @@
 
 ## <font color="#FFD700">**About me**</font>
 
-Hey there. I’m currently a Data Science Engineer Apprentice at the FEMTO-ST Institute, hanging out with a bunch of smart folks doing AI and distributed algorithms—basically, trying to teach machines to think while barely managing it myself some days. I’ve done my rounds: studied computer science in France, dabbled in machine learning in England, and spent six months in Canada on a study program—because why not add frostbite to my list of experiences? I like those kinds of opportunities and wish to have many more in the future. Between the coding marathons, I’ve been training in jujitsu long enough to earn a black belt 🥋 and a few bruises—turns out throwing people around teaches you a thing or two about focus. When I need a break from all the logic, I write music 🎵, because what better way to stay sane than to dive into a different kind of chaos? At the end of the day, I’m just here for the learning curve 📈 and a good story to tell.
+Data Science Engineer Apprentice at FEMTO-ST, working on AI and distributed algorithms to build intelligent applications. Currently part of the SADIAND Lab, where I collaborate with SDIS 25 to optimize firefighter resources using AI-driven solutions. Studied computer science in France, dabbled in machine learning in England, and spent six months in Canada—partly for research, partly to test my cold resistance. Always looking for new challenges and interesting problems to solve.
+
+When I’m not wrestling with algorithms, I’m literally wrestling—black belt in jujitsu, which means I’ve mastered both throwing people and getting thrown. I also write music, because sometimes even code needs a break from logic. Whether it’s AI, system design, or composition, I enjoy breaking things down and making them work—preferably with fewer bugs and bruises along the way.
 
 ## <font color="#FFD700">**Languages and tools**</font>
 
