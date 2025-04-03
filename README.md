@@ -32,7 +32,7 @@ When I’m not wrestling with algorithms, I’m literally wrestling—black belt
 
 ## <font color="#FFD700">**Projects**</font>
 
-I’m all about diving into new ideas—probably why I’ve got more projects on the go than hours of sleep. You can check out some of my latest attempts to teach machines to be smarter than me (not a high bar, I know) over in the repositories section of my GitHub. That’s where I stash my experiments (not just in AI), showcasing my enthusiasm for making machines do cool stuff and, you know, potentially take over the world. But in a good way. Go take a look if you're curious—or just really bored.
+I’m all about diving into new ideas—probably why I’ve got more projects on the go than hours of sleep. You can check out some of my latest attempts to teach machines to be smarter than me (not a high bar, I know) over in the repositories section of my GitHub. That’s where I stash my experiments (not just in AI, mainly not AI btw but I'm trying ok), showcasing my enthusiasm for making machines do cool stuff (trying). But in a good way. Go take a look if you're curious—or just really bored.
 
 ![GitGudShu's GitHub Stats](https://github-readme-stats-gitgudshu.vercel.app/api/?username=GitGudShu&count_private=true&theme=shades-of-purple&showicons=true)
 <!-- ![GitGudShu's GitHub Language Stats](https://github-readme-stats-gitgudshu.vercel.app/api/top-langs/?username=GitGudShu&hide=ShaderLab&exclude_repo=AudioMemory&langs_count=8&theme=shades-of-purple&layout=compact) -->
