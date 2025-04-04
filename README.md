@@ -20,15 +20,7 @@ When I’m not wrestling with algorithms, I’m literally wrestling—black belt
 
 ### **Familiar with**
 
-![Frameworks](https://skillicons.dev/icons?i=php,flask,c,cpp,cs,qt,postgres,gitlab,maven,arduino,raspberrypi,unity,nodejs,mysql,java,js,html,css&perline=6)
-
-### **Operating system**
-
-<p>
-    <img alt="ubuntu" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Logo-ubuntu_cof-orange-hex.svg" height="50" style="margin-right: 10px">
-    <img alt="debian" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Openlogo-debianV2.svg/1200px-Openlogo-debianV2.svg.png" height="50" style="margin-right: 10px">
-    <img alt="windows" src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" height="50">
-</p>
+![Frameworks](https://skillicons.dev/icons?i=php,flask,c,cpp,cs,qt,postgres,gitlab,maven,arduino,raspberrypi,unity,nodejs,mysql,java,js,html,css,angular,elasticsearch&perline=5)
 
 ## <font color="#FFD700">**Projects**</font>
 
