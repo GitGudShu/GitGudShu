@@ -8,7 +8,7 @@
 
 ## <font color="#FFD700">**About me**</font>
 
-Data Science Engineer Apprentice at FEMTO-ST, working on AI and distributed algorithms to build intelligent applications. Currently part of the SADIAND Lab, where I collaborate with SDIS 25 to optimize firefighter resources using AI-driven solutions. Studied computer science in France, dabbled in machine learning in England, and spent six months in Canada—partly for research, partly to test my cold resistance. Always looking for new challenges and interesting problems to solve.
+Data Science Engineer Apprentice at FEMTO-ST, working on AI and distributed algorithms to build intelligent applications. Currently part of the SADIAND Lab, where I collaborate with SDIS 25 to optimize firefighter resources using AI-driven solutions. Studied computer science in France, dabbled in machine learning in England, and spent six months in Canada—partly for research, partly to test my cold resistance. Always looking for new learning experiences and interesting problems to solve.
 
 When I’m not wrestling with algorithms, I’m literally wrestling—black belt in jujitsu, which means I’ve mastered both throwing people and getting thrown. I also write music, because sometimes even code needs a break from logic. Whether it’s AI, system design, or composition, I enjoy breaking things down and making them work—preferably with fewer bugs and bruises along the way.
 
