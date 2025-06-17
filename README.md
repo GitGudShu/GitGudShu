@@ -8,9 +8,12 @@
 
 ## <font color="#FFD700">**About me**</font>
 
-Data Science Engineer Apprentice at FEMTO-ST, working on AI and distributed algorithms to build intelligent applications. Currently part of the SADIAND Lab, where I collaborate with SDIS 25 to optimize firefighter resources using AI-driven solutions. Studied computer science in France, dabbled in machine learning in England, and spent six months in Canada—partly for research, partly to test my cold resistance. Always looking for new learning experiences and interesting problems to solve.
+I’m a Data Science Engineer Apprentice at FEMTO-ST, based in the SADIAND Lab, where I work on AI and distributed algorithms to support emergency response operations in collaboration with SDIS 25. My role spans full stack development, technical team coordination, and contributing to research efforts that bridge theory and field application.
+I studied computer science in France, explored machine learning research during a stay in the UK, and spent six months in Canada working on related topics before returning to France to focus on applied AI. I try to design systems that are useful, robust, and grounded in operational reality—with the means and skills I have now. It’s a work in progress, and I’m always looking to improve.
 
-When I’m not wrestling with algorithms, I’m literally wrestling—black belt in jujitsu, which means I’ve mastered both throwing people and getting thrown. I also write music, because sometimes even code needs a break from logic. Whether it’s AI, system design, or composition, I enjoy breaking things down and making them work—preferably with fewer bugs and bruises along the way.
+I practiced jujitsu for years but lately not so much. Life got busy, priorities shifted, but I’d like to get back to it at some point. It’s one of those things that teaches you a lot, even when you're not doing it.
+I also used to compose music more regularly—now I just collect unfinished drafts like some people collect tabs. Still, I’m hoping to find more time for it again. Not everything needs a use case.
+
 
 ## <font color="#FFD700">**Languages and tools**</font>
 
@@ -24,7 +27,7 @@ When I’m not wrestling with algorithms, I’m literally wrestling—black belt
 
 ## <font color="#FFD700">**Projects**</font>
 
-I’m all about diving into new ideas—probably why I’ve got more projects on the go than hours of sleep. You can check out some of my latest attempts to teach machines to be smarter than me (not a high bar, I know) over in the repositories section of my GitHub. That’s where I stash my experiments (not just in AI, mainly not AI btw but I'm trying ok), showcasing my enthusiasm for making machines do cool stuff (trying). But in a good way. Go take a look if you're curious—or just really bored.
+I’m always exploring new ideas—probably why I’m juggling more projects than I have time for. You can find some of my latest experiments (AI and otherwise) in the repositories section of my GitHub. It’s where I collect the things I’ve been building, learning, or just messing around with. Feel free to take a look if you're curious.
 
 ![GitGudShu's GitHub Stats](https://github-readme-stats-gitgudshu.vercel.app/api/?username=GitGudShu&count_private=true&theme=shades-of-purple&showicons=true)
 <!-- ![GitGudShu's GitHub Language Stats](https://github-readme-stats-gitgudshu.vercel.app/api/top-langs/?username=GitGudShu&hide=ShaderLab&exclude_repo=AudioMemory&langs_count=8&theme=shades-of-purple&layout=compact) -->
