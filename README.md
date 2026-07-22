@@ -19,7 +19,7 @@ I like to try new things when I have the opportunity to do so:
 
 Outside of engineering, I have a black belt in Judo Ju-Jitsu and spend spare time (when I have those) writing music and experimenting with side projects.
 
-I’m naturally a bit reserved, but I strive to be the kind of teammate people can actually depend on. I lead with empathy and care a lot about work efficiency, I work on—understanding team dynamics and making sure people feel supported. Stepping into leadership roles wasn't something I originally sought out, but being trusted by my peers to lead has pushed me to own my skills, embrace the responsibility, and focus on making a positive impact.
+I’m naturally a bit reserved, but I strive to be the kind of teammate people can actually depend on. I lead with empathy and care a lot about work efficiency, I work on understanding team dynamics and making sure people feel supported. Stepping into leadership roles wasn't something I originally sought out, but being trusted by my peers to lead has pushed me to own my skills, embrace the responsibility, and focus on making a positive impact.
 
 ---
 
