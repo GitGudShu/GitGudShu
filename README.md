@@ -9,7 +9,7 @@
 
 ## About Me
 
-I'm a Data Science Engineer Apprentice at **FEMTO-ST** (SADIAND Lab) as a member of the AIMOS team, working on applied AI and distributed algorithms to support real-time emergency response for French public security. My focus is on building practical, robust systems that actually work under field constraints—spanning algorithm design, full-stack implementation, and technical coordination of a team.
+I'm a Data Science Engineer Apprentice at **FEMTO-ST** (SADIAND Lab) as a member of the AIMOS team, working on applied AI and distributed algorithms to support real-time emergency response for French public security. My focus is on building practical, robust systems that actually work under field constraints spanning algorithm design, full-stack implementation, and technical coordination of a team.
 
 ### Background
 I like to try new things when I have the opportunity to do so:
