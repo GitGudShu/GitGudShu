@@ -19,10 +19,8 @@ I am not a fan of redundancy so I often try to take opportunities, get more pecu
 
 Outside of engineering, I have a black belt in Judo Ju-Jitsu and spend spare time (so not often) writing music and experimenting with side projects.
 
----
 
 ## Languages & Tools
-
 ### Primary Tech Stack
 ![Primary Stack](https://skillicons.dev/icons?i=github,vscode,py,vuejs,mongo&perline=5)
 
