@@ -18,6 +18,7 @@ I am not a fan of redundancy so I often try to take opportunities, get more pecu
 * 🇨🇦 **Canada:** 6 months working on distributed systems and applied ML.
 
 Outside of engineering, I have a black belt in Judo Ju-Jitsu and spend spare time (so not often) writing music and experimenting with side projects.
+
 ---
 
 ## Languages & Tools
