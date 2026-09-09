@@ -12,7 +12,7 @@
 I'm a Data Science Engineer Apprentice at **FEMTO-ST** (SADIAND Lab) as a member of the AIMOS team, working on applied AI and distributed algorithms to support real-time emergency response for French public security. My current focus is on building practical, robust systems that actually work under field constraints spanning algorithm design, data mining, full-stack implementation, and technical coordination of a team.
 
 ### Background
-I am not a fan of redundancy so I often try to take opportunities, get more peculiar :
+I am not a fan of redundancy so I often try to take peculiar but insightful opportunities :
 * 🇫🇷 **France:** Computer science engineering background & applied Data Science + AI focus.
 * 🇬🇧 **UK:** Research in NLP + DNN for sentiment analysis.
 * 🇨🇦 **Canada:** 6 months working on distributed systems and applied ML.
